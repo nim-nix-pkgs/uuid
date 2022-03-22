@@ -9,7 +9,7 @@
   
   inputs.src-uuid-master.flake = false;
   inputs.src-uuid-master.owner = "idlewan";
-  inputs.src-uuid-master.ref   = "refs/heads/master";
+  inputs.src-uuid-master.ref   = "master";
   inputs.src-uuid-master.repo  = "nim-uuid";
   inputs.src-uuid-master.type  = "github";
   
