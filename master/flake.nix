@@ -1,5 +1,5 @@
 {
-  description = ''UUID wrapper'';
+  description = ''Wrapper for the UUID library'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
