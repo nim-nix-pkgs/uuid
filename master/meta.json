@@ -1,8 +1,0 @@
-{
-  "desc": "UUID wrapper",
-  "license": "MIT",
-  "name": "uuid",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/idlewan/nim-uuid",
-  "version": "master"
-}
